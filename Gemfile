@@ -45,4 +45,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
-gem 'doorkeeper', '4.2.6'
+gem 'doorkeeper', '4.4.0'
